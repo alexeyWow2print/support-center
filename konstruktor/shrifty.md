@@ -18,7 +18,7 @@ icon: text-size
 **Важно:** Вы можете добавить не более **10 собственных шрифтов**.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 
 

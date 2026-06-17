@@ -14,7 +14,7 @@
 
 Модуль появится в структуре калькуляции выбранной детали.
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -35,7 +35,7 @@
   * **Описание** — текст, который будет отображаться под заголовком модуля в карточке товара.
 * **Показывать заголовок на сайте** — управляет видимостью заголовка модуля.
 
-<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
