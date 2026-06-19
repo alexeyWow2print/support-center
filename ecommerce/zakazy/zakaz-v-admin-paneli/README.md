@@ -43,7 +43,7 @@
 * [Технологическую карту](dokumenty/tekhnologicheskaya-karta.md).
 * Этикетки на коробку, Этикетку и Маркировочную этикетку (доступно, если в заказе выбрана [доставка транспортной компанией](../../../settings/integracii/#dostavka)).
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -53,7 +53,7 @@
 
 Позволяет скачать единым архивом все исходные изображения (макеты), прикрепленные к заказу.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -200,7 +200,7 @@
 2. **Общая сумма** и остаток к доплате.
 3. **Статус заказа** с индикатором прогресса. Управление: выбор значения из выпадающего списка или быстрый перевод на следующий статус (свайп по панели справа).
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -219,7 +219,7 @@
 9. Дата доставки.
 10. Менеджер — сотрудник, за которым закреплен клиент.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

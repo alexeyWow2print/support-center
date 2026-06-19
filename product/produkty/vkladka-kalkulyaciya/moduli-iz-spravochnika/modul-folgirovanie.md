@@ -14,7 +14,7 @@
 
 Модуль появится в структуре калькуляции выбранной детали.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -35,7 +35,7 @@
   * **Описание** — текст, который будет отображаться под заголовком модуля в карточке товара.
 * **Показывать заголовок на сайте** — управляет видимостью заголовка модуля.
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -49,7 +49,7 @@
   * **Грязная площадь:** В расчет берется полная площадь использованного рулона, включая технологические отходы и свободные области.
 * **Галерея** — включает показ галереи изображений. Фотографии загружаются в настройке операции во вкладке «Фотогалерея» .
 
-<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -64,7 +64,7 @@
 * По умолчанию присутствует **«Вариант без параметра»**.
 * Для добавления фольгирования нажмите кнопку **«Добавить»**. Выберите существующую операцию из списка или создайте новую. (см. статью [Фольгирование](../../../../handbook/dop.-operacii/folgirovanie.md)).
 
-<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -79,7 +79,7 @@
 * **Комментарий** — внутренняя заметка для менеджеров (видна только в панели управления).
 * **Количество** — коэффициент, на который умножается итоговая стоимость по этой операции. По умолчанию коэффициент равен 1.
 
-<figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
