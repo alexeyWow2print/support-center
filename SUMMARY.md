@@ -64,6 +64,7 @@
         * [Модуль «Каширование»](product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/modul-kashirovanie.md)
         * [Модуль «Установка люверсов»](product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/modul-ustanovka-lyuversov.md)
         * [Модуль «Фольгирование»](product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/modul-folgirovanie.md)
+        * [Модуль «Лакирование»](product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/modul-lakirovanie.md)
     * [Вкладка Контент](product/produkty/untitled-2.md)
     * [Вкладка Фотогалерея](product/produkty/untitled-1.md)
     * [Вкладка SEO](product/produkty/vkladka-seo.md)
